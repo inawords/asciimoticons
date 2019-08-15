@@ -1,0 +1,167 @@
+{
+  "Angry": {
+    "prefix": "^angry^",
+    "body": "ಠ_ಠ",
+    "description": "ಠ_ಠ"
+  },
+  "Bear": {
+    "prefix": "^bear^",
+    "body": "ʕ•ᴥ•ʔ",
+    "description": "ʕ•ᴥ•ʔ"
+  },
+  "Bear Flip": {
+    "prefix": "^bearFlip^",
+    "body": "ʕノ•ᴥ•ʔノ ︵ ┻━┻",
+    "description": "ʕノ•ᴥ•ʔノ ︵ ┻━┻"
+  },
+  "Bear Hug": {
+    "prefix": "^bearHug^",
+    "body": "ʕっ•ᴥ•ʔっ",
+    "description": "ʕっ•ᴥ•ʔっ"
+  },
+  "Blush": {
+    "prefix": "^blush^",
+    "body": "(˵ ͡° ͜ʖ ͡°˵)",
+    "description": "(˵ ͡° ͜ʖ ͡°˵)"
+  },
+  "Bribe": {
+    "prefix": "^bribe^",
+    "body": "( •͡˘ _•͡˘)ノð",
+    "description": "( •͡˘ _•͡˘)ノð"
+  },
+  "Bubbles": {
+    "prefix": "^bubbles^",
+    "body": "( ˘ ³˘)ノ°ﾟº❍｡",
+    "description": "( ˘ ³˘)ノ°ﾟº❍｡"
+  },
+  "Cat": {
+    "prefix": "^cat^",
+    "body": "ฅ^•ﻌ•^ฅ",
+    "description": "ฅ^•ﻌ•^ฅ"
+  },
+  "Cheer": {
+    "prefix": "^cheer^",
+    "body": "※\\(^o^)/※",
+    "description": "※\\(^o^)/※"
+  },
+  "Chinese Mafia": {
+    "prefix": "^chineseMafia^",
+    "body": "(-(-.(-.(-.-).-).-)-)",
+    "description": "(-(-.(-.(-.-).-).-)-)"
+  },
+  "Confused": {
+    "prefix": "^confused^",
+    "body": "(☉_☉)",
+    "description": "(☉_☉)"
+  },
+  "Creep": {
+    "prefix": "^creep^",
+    "body": "ԅ(≖‿≖ԅ)",
+    "description": "ԅ(≖‿≖ԅ)"
+  },
+  "Cry": {
+    "prefix": "^cry^",
+    "body": "(╥﹏╥)",
+    "description": "(╥﹏╥)"
+  },
+  "Deal with it": {
+    "prefix": "^dealWithIt^",
+    "body": "(⌐■_■)",
+    "description": "(⌐■_■)"
+  },
+  "Dissaproving Face with Mononocle": {
+    "prefix": "^dissaprovingMononocle^",
+    "body": "ಠ_ರೃ",
+    "description": "ಠ_ರೃ"
+  },
+  "Double Table Flip": {
+    "prefix": "^doubleTableFlip^",
+    "body": "┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻",
+    "description": "┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻"
+  },
+  "Excited": {
+    "prefix": "^excited^",
+    "body": "(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧",
+    "description": "(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧"
+  },
+  "Fight": {
+    "prefix": "^fight^",
+    "body": "(ง •̀_•́)ง",
+    "description": "(ง •̀_•́)ง"
+  },
+  "Heart": {
+    "prefix": "^heart^",
+    "body": "❤",
+    "description": "❤"
+  },
+  "Kissing": {
+    "prefix": "^kissing^",
+    "body": "( ˘ ³˘)♥",
+    "description": "( ˘ ³˘)♥"
+  },
+  "Meh": {
+    "prefix": "^meh^",
+    "body" : "¯\\_(ツ)_/¯",
+    "description": "¯\\_(ツ)_/¯"
+  },
+  "Mustache": {
+    "prefix": "^mustache^",
+    "body": "( ˇ෴ˇ )",
+    "description": "( ˇ෴ˇ )"
+  },
+  "Point Right": {
+    "prefix": "^pointRight^",
+    "body": "(☞ﾟヮﾟ)☞",
+    "description": "(☞ﾟヮﾟ)☞"
+  },
+  "Put Table Back": {
+    "prefix": "^putTableBack^",
+    "body": "┬──┬ ノ(ò_óノ)",
+    "description": "┬──┬ ノ(ò_óノ)"
+  },
+  "Rage": {
+    "prefix": "^rage^",
+    "body": "t(ಠ益ಠt)",
+    "description": "t(ಠ益ಠt)"
+  },
+  "Rainbow Cat": {
+    "prefix": "^rainbowCat^",
+    "body": "(=^･ｪ･^=))ﾉ彡☆",
+    "description": "(=^･ｪ･^=))ﾉ彡☆"
+  },
+  "Success Kid": {
+    "prefix": "^successKid^",
+    "body": "(•̀ᴗ•́)و ̑̑ ",
+    "description": "(•̀ᴗ•́)و ̑̑ "
+  },
+  "Sword": {
+    "prefix": "^sword^",
+    "body":"o()xxxx[{::::::::::::::::::>",
+    "description": "o()xxxx[{::::::::::::::::::>"
+  },
+  "Table Flip": {
+    "prefix": "^tableflip^",
+    "body" : "(ノಠ益ಠ)ノ彡┻━┻",
+    "description": "(ノಠ益ಠ)ノ彡┻━┻"
+  },
+  "Table Flips You": {
+    "prefix": "^tableFlipsYou^",
+    "body": "ノ┬─┬ノ ︵ ( \\o°o)\\",
+    "description": "ノ┬─┬ノ ︵ ( \\o°o)\\"
+  },
+  "Worried": {
+    "prefix": "^worried^",
+    "body": "(◍•﹏•)",
+    "description": "(◍•﹏•)"
+  },
+  "Yay": {
+    "prefix": "^yay^",
+    "body": "\\( ﾟヮﾟ)/",
+    "description": "\\( ﾟヮﾟ)/"
+  },
+  "Zoidberg": {
+    "prefix": "^zoidberg^",
+    "body": "(V) (°,,,,°) (V)",
+    "description": "(V) (°,,,,°) (V)"
+  }
+}

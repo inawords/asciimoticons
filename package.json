@@ -1,0 +1,66 @@
+{
+    "name": "asciimoticons",
+    "displayName": "asciimoticons",
+    "description": "add ascii emoticons into your code",
+    "version": "1.0.0",
+    "publisher": "inawords",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/inawords/asciimoticons"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "elixir",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "git-commit",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "json",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "plaintext",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "powershell",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
