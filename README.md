@@ -1,4 +1,4 @@
-# asciimoticons Snippet Extenscion for VSCode
+# asciimoticons Snippet Extension for VSCode
 
 ascii emoticon snippets to improve your comments and code (ノಠ益ಠ)ノ彡┻━┻
 
